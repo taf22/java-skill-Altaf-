@@ -3,7 +3,7 @@ public class UserInfo {
         String name = "Altaf";
         int age = 15;
         String email = "taf@gmail.com";
-        boolean isActive = false;
+        boolean isActive = false; //not ture
 
         System.out.println("Name: " + name + ", Age: " + age + ", Email: " + email + ", Active: " + isActive);
     }
