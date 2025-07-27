@@ -1,25 +1,21 @@
-# SOLUTIONS.md
+# Java Skills Project - Solutions Summary
 
-## Task 2 – Basic Programming
-I learned how to use conditions and variables in Java.  
-The challenging part was writing the payment rules for different employee types.  
-I tested my code using different hours and employee types.  
-One thing I want to improve is organizing my code better using methods.
+## Task 2: Basic Programming
 
-## Task 3 – Arrays and Strings
-I practiced how to work with arrays and strings.  
-The hard part was handling empty strings and checking values correctly.  
-I tested my code using sample names and scores.  
-I want to improve in validating input and writing clean logic.
+### User Information System
+- **What I learned:**  
+  I learned how to create Java classes, define properties for each user, and print the information clearly.
+- **Challenging part:**  
+  The hardest part was organizing the input and output so the data looks neat and readable.
+- **How I tested:**  
+  I ran the program multiple times with different data to make sure everything prints correctly.
+- **One thing to improve:**  
+  I want to add input validation to prevent invalid or empty data from causing errors.
 
-## Task 4 – OOP Practice
-I understood how inheritance works and the difference between static and non-static variables.  
-It was a bit hard to use `super` and `@Override` correctly.  
-I tested by creating objects and calling different methods.  
-I want to get better at designing object-oriented programs.
-
-## Task 5 – Problem Solving
-I learned how to solve problems using patterns and simple logic.  
-Formatting the output nicely was a bit tricky.  
-I tested my logic with different customer types and number patterns.  
-I want to improve how I display results clearly and make my code easier to read.
+### Simple Business Logic
+- **What I learned:**  
+  I practiced writing `if-else` statements to simulate real-world business logic.
+- **Challenging part:**  
+  It was tricky to design clear rules when the conditions got more complex.
+- **How I tested:**  
+  I tested by trying different inputs to see if the logic works as exp
